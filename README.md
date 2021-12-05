@@ -9,7 +9,6 @@ Predicting stock prices is an uncertain task which is modelled using machine lea
 * Close	
 * Open	
 * High	
-* Low	Last	
 * Close	
 * VWAP	
 * Volume
